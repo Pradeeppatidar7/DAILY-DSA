@@ -2,7 +2,7 @@ console.log("method 1")
 let a = 10; 
 let b = 20;
 let c = a;
-a = b;
+a = b; 
 b = c;
 console.log(a)
 console.log(b)
