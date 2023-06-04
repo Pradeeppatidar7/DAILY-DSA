@@ -9,5 +9,5 @@ if (a > b && a > c) {
 } else if (c > a && c > b) {
   console.log(c);
 }else{
-    console.log("No Number Given")
+    console.log( "No Number Given")
 }
