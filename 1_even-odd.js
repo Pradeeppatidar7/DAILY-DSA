@@ -18,4 +18,4 @@ function oddOrEven(num) {
     }
   }
   
-  console.log(oddOrEven(4));
+  console.log(oddOrEven(3));
